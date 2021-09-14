@@ -2,7 +2,7 @@
 
 Projeto final do bootcamp Inter em parceria com a Digital Innovation One.
 
-O projeto criado é um app de lista de tarefas e altualmente esta utilizando viewBinding, dataPicker e timePicker.
+O projeto criado é um app de repositorios do github utilizando: 
 
 1. MVVM
 2. Material Design
