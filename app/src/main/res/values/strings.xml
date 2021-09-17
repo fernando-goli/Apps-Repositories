@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Github Repository</string>
+    <string name="action_search">Pesquisa</string>
 </resources>
