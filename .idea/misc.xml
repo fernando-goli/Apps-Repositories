@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Fernando/AndroidStudioProjects/Projetos-Cursos-DIO/GithubRepository/app/src/main/res/drawable/ic_search.xml" value="0.2964102564102564" />
+        <entry key="..\:/Users/Fernando/AndroidStudioProjects/Projetos-Cursos-DIO/GithubRepository/app/src/main/res/drawable/ic_star_rate.xml" value="0.2964102564102564" />
         <entry key="..\:/Users/Fernando/AndroidStudioProjects/Projetos-Cursos-DIO/GithubRepository/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/Fernando/AndroidStudioProjects/Projetos-Cursos-DIO/GithubRepository/app/src/main/res/layout/item_repo.xml" value="0.400390625" />
+        <entry key="..\:/Users/Fernando/AndroidStudioProjects/Projetos-Cursos-DIO/GithubRepository/app/src/main/res/menu/main_menu.xml" value="0.28489583333333335" />
       </map>
     </option>
   </component>
